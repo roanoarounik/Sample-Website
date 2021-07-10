@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #46b5ec;
+    background: black;
+    font-family: arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.outercontainer {
+    padding: 35px;
+}
+
+.outercontainer h1 {
+    margin: 15px;
+}
