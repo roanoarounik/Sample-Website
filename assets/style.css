@@ -5,7 +5,7 @@
 }
 
 body {
-    color: #46b5ec;
+    color: #1c3041;
     background: black;
     font-family: arial;
 }
@@ -25,3 +25,16 @@ p {
 .outercontainer h1 {
     margin: 15px;
 }
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: rgb(233, 102, 102);
+    text-align: center;
+  }
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
