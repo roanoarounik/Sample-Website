@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    grid-gap: 10px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    grid-gap: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(31 179 195);
+    font-size: 20px;
+    font-weight: 600;
+}

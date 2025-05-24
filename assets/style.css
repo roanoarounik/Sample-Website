@@ -6,35 +6,27 @@
 
 body {
     color: #1c3041;
-    background: black;
     font-family: arial;
+    background: lightblue;
 }
 
 h1 {
+    text-align: center;
+    color: rgb(112 47 242);
     text-align: center;
 }
 
 p {
     text-align: center;
+    font-family: verdana;
+    font-size: 20px;
 }
 
 .outercontainer {
     padding: 35px;
+    min-height: 80dvh;
 }
 
 .outercontainer h1 {
     margin: 15px;
 }
-body {
-    background-color: lightblue;
-}
-
-h1 {
-    color: rgb(233, 102, 102);
-    text-align: center;
-  }
-
-p {
-    font-family: verdana;
-    font-size: 20px;
-  }
